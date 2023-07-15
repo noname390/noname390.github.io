@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	height: 104px;
+	position: relative;
+}
+
+.title {
+	font-family: "黑体";
+	font-size: 48px;
+	color: #fff;
+	position: absolute;
+	top: 25px;
+	left: 100px;
+	margin: 0;
+}
+
+.logo {
+	width: 64px;
+	height: 64px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+.message {
+	font-family: Arial, sans-serif;
+	font-size: 32px;
+	text-align: center;
+	margin-top: 400px;
+}
